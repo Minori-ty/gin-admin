@@ -8,9 +8,9 @@ mysql:
 
 logger:
     level: info
-    prefix: '[gin-project]'
+    prefix: '[admin]'
     director: log
-    show-line: log
+    show-line: true
     log-in-console: true
 
 system:
